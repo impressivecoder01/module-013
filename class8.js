@@ -12,4 +12,4 @@ var first = 0.1;
 var second = 0.2;
 // console.log(first + second )
 var total = first + second;
-console.log(parseFloat(total.toFixed(1)))
+console.log(parseFloat(total.toFixed(1)));
